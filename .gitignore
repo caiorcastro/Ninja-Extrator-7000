@@ -1,0 +1,18 @@
+# Ignorar ambiente virtual
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Ignorar diretórios de arquivos temporários e vídeos
+temp_segments/
+videos/
+
+# Ignorar arquivos do sistema
+.DS_Store
+.vscode/
+.idea/
+
+# Ignorar outros arquivos temporários
+*.log
+*.tmp 
